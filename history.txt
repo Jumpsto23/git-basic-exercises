@@ -1,0 +1,174 @@
+    1  ls
+    2  clear
+    3  git clone https://github.com/Umuzi-org/Luyanda-Mlaba-219-level-1-programming-katas-javascript.git
+    4  clear
+    5  ls
+    6  clear
+    7  git clone https://github.com/Umuzi-org/Luyanda-Mlaba-219-level-1-programming-katas-javascript.git
+    8  clear
+    9  ls
+   10  cd Luyanda-Mlaba-219-level-1-programming-katas-javascript
+   11  clear
+   12  ls
+   13  vi README.md
+   14  git add .
+   15  clear
+   16  vi task7.js
+   17  vi task6.js
+   18  vi task5.js
+   19  ls
+   20  git clone https://github.com/Umuzi-org/Luyanda-Mlaba-223-person-javascript.git
+   21  ls
+   22  cd Luyanda-Mlaba-223-person-javascript
+   23  clear
+   24  ls
+   25  git checkout -b Person
+   26  ls
+   27  clear
+   28  vi person.js
+   29  node person.js
+   30  node.js person.js
+   31  node -v
+   32  clear
+   33  ls
+   34  vi peraon.js
+   35  ls
+   36  vi person.js
+   37  node --version
+   38  node -v
+   39  node --version
+   40  ls
+   41  cd Luyanda-Mlaba-223-person-javascript
+   42  clear
+   43  ls
+   44  node person.js
+   45  vi person.js
+   46  node person.js
+   47  git add person.js
+   48  git commit -m "Complete"
+   49  git config --global user.email "Jumpsto23"
+   50  git config --global user.email "mlabaluyanda677@gmail.com"
+   51  git config --global user.name "Jumpsto23"
+   52  git commit -m "Complete"
+   53  git push
+   54  git push --set-upstream origin Person
+   55  git push --set-upstream origin Person
+   56  clear
+   57  git checkout -b main
+   58  git checkout 
+   59  git checkout main
+   60  clear
+   61  cd /
+   62  clear
+   63  ls
+   64  cd ..
+   65  cd ..
+   66  ls
+   67  clear
+   68  git clone https://github.com/Umuzi-org/Luyanda-Mlaba-219-level-1-programming-katas-javascript.git
+   69  clear
+   70  ls
+   71  cd Luyanda-Mlaba-219-level-1-programming-katas-javascript
+   72  clear
+   73  ls
+   74  cd Luyanda-Mlaba-223-person-javascript
+   75  clear
+   76  ls
+   77  cat person.js
+   78  clear
+   79  vi person.js
+   80  vi person.js
+   81  node person.js
+   82  vi person.js
+   83  node person.js
+   84  vi person.js
+   85  node person.js
+   86  vi person.js
+   87  node person.js
+   88  vi person.js
+   89  node person.js
+   90  vi person.js
+   91  node person.js
+   92  vi person.js
+   93  node person.js
+   94  clear
+   95  ls
+   96  vi README.md
+   97  clear
+   98  cd ..
+   99  ls
+  100  cd Luyanda-Mlaba-219-level-1-programming-katas-javascript
+  101  ls
+  102  clear
+  103  ls
+  104  vi task1.js
+  105  node task1.js
+  106  vi task1.js
+  107  node task1.js
+  108  vi task1.js
+  109  node task1.js
+  110  vi task1.js
+  111  ls
+  112  clear
+  113  mkdir git-basic-exercises
+  114  cd git-basic-exercises
+  115  ls -a
+  116  git init
+  117  ls -a
+  118  clear
+  119  git status
+  120  touch README.md
+  121  ls -a
+  122  git status
+  123  clear
+  124  git add README.md
+  125  git status
+  126  git rm --cached README.md
+  127  git status
+  128  clear
+  129  git add README
+  130  git add README.md
+  131  git commit -m "initial commit"
+  132  git log
+  133  nano README.md
+  134  clear
+  135  cat README.md
+  136  git status
+  137  git add READMe.md
+  138  git commit -m "second commit"
+  139  git add README.md
+  140  git commit -m "second commit"
+  141  vi README.md
+  142  git add README.md
+  143  git commit -m "third commit"
+  144  clear
+  145  git log
+  146  git checkout 40498fbad3343bb5b9d59cb428a6a76fa30f9f02
+  147  cat README.md
+  148  git checkout main
+  149  git checkout main
+  150  git checkout master
+  151  cat README.md
+  152  clear
+  153  git branch
+  154  git branch milkshake-flavours
+  155  git branch
+  156  git checkout milkshake-flavours
+  157  git branch
+  158  clear
+  159  vi milkshakes.md
+  160  vi milkshakes.md
+  161  git status
+  162  git add milkshakes.md
+  163  git commit -m "added initial flavours"
+  164  clear
+  165  git log
+  166  clear
+  167  git checkout master
+  168  git branch history
+  169  git checkout history
+  170  clear
+  171  git log
+  172  git branch
+  173  clear
+  174  history > history.txt
